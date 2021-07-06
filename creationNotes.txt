@@ -1,0 +1,7 @@
+dotnet add App/App.csproj package Microsoft.EntityFrameworkCore.Design
+ dotnet add App/App.csproj package Microsoft.EntityFrameworkCore.Tools
+dotnet add App/App.csproj package Microsoft.EntityFrameworkCore.SQLite
+
+Dotnet ef migrations add "Initial"
+
+Dotnet ef database update

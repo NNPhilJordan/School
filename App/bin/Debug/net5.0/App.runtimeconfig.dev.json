@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pjordan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pjordan\\.nuget\\packages"
+    ]
+  }
+}
